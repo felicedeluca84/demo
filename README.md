@@ -1,8 +1,2 @@
 # Demo Project README
-
-This is a simple readme file
-Bla bla bla
-
-Cla cla cla
-
-Ddd
+Prova del 20200625_1546
